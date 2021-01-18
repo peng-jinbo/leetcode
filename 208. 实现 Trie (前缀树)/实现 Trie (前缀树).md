@@ -1,0 +1,4 @@
+#### [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+
+子节点为一个大小为26的节点数组。
+
